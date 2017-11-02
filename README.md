@@ -1,7 +1,13 @@
 # Vim Cheatsheet
 
->Disclaimer: This cheatsheet is summerized from my own experience and other publich information. It should not be considered official advice.
-
+## Three modes
+An excellent description of the three modes can be found [here](https://blog.interlinked.org/tutorials/vim_tutorial.html).
+```
+Change to command mode from anywhere: <Esc>
+Change to insert mode from command mode: i,a,I,A
+Change from command mode to visual mode: v,V, Ctrl + v
+```
+  
 ## Global
 ```bash
 :help keyword # open help for keyword
